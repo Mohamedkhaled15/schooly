@@ -19,9 +19,7 @@ class _HomeScreenState extends State<HomeScreen> {
       body: Column(
         children: [
           Text('ياعم ورد عليهم '),
-          Text('ياعم ورد عليهم '),
-          Text('ياعم ورد عليهم '),
-          Text('ياعم ورد عليهم '),
+          CircularProgressIndicator(),
         ],
       ),
     );
