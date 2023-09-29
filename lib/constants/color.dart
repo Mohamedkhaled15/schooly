@@ -5,3 +5,4 @@ const secondary = Color(0xff6789CA);
 const black = Color(0xff313131);
 const gray = Color(0xff777777);
 const whiteGray = Color(0xffA5A5A5);
+const mahmoudColor = Color(0xffA55aA5);
