@@ -13,6 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
+        title: Text('ابو عمو واحد بس'),
       ),
     );
   }
